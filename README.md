@@ -8,6 +8,8 @@ Fortunately, there is another method that still works, and (most likely) will ne
 
 Edit (19/04/2021): As of recently, twitcasting has ramped up their countermeasures against downloading videos, but as of now all you need to do is add a couple headers into the request.
 
+Update (2023/8/20): Now you need to append `Cookie: [YOUR_COOKIE]` to headers.
+
 ## Requirements
 A computer, and a web browser.  
 This tutorial assumes you are using Windows (7/8/10) and Google Chrome, however, any modern OS and browser should work. 
